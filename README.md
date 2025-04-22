@@ -44,6 +44,20 @@ project/
 │   └── test_vote.py 
 └── README.md
 
+project/ 
+├── models/ # Model: Data logic, DAO classes 
+│   ├── candidate.py 
+│   ├── student.py 
+│   └── vote.py 
+├── views/ # View: PyQt6 UI files 
+│   └── main_window.ui 
+├── controller/ # Controller: App logic & interaction 
+│   └── main.py 
+├── database/ # SQLite database + init script 
+│   └── voting.db 
+├── tests/ # Unit tests 
+│   └── test_vote.py 
+└── README.md
 ---
 
 ## 📊 Database
