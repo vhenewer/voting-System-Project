@@ -78,6 +78,6 @@ Basic unit tests are provided for:
 
 ##  Authors
 
-- **Venera [You]**
-- **Your Teammate’s Name**  
+- **Ernisova Venera**
+- **Alieva Nursezim**  
 *Ala-Too International University – 2025*
