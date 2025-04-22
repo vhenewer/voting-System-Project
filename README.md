@@ -4,7 +4,7 @@ This project is a secure and user-friendly **Voting System** developed for elect
 
 ---
 
-## 📌 Project Features
+##  Project Features
 
 - **Secure Login System**  
 - **One-Time Voting Restriction** (based on student ID)  
@@ -17,7 +17,7 @@ This project is a secure and user-friendly **Voting System** developed for elect
 
 ---
 
-## 🧱 Technology Stack
+##  Technology Stack
 
 - `Python 3.10+`  
 - `PyQt6`  
@@ -27,7 +27,7 @@ This project is a secure and user-friendly **Voting System** developed for elect
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 project/
@@ -48,7 +48,7 @@ project/
 
 ---
 
-## 📊 Database
+##  Database
 
 - **Tables:**
   - `students` – contains student IDs
@@ -67,7 +67,7 @@ project/
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Basic unit tests are provided for:
 - Recording votes
@@ -76,7 +76,7 @@ Basic unit tests are provided for:
 
 ---
 
-## ✨ Authors
+##  Authors
 
 - **Venera [You]**
 - **Your Teammate’s Name**  
